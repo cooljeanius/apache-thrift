@@ -31,3 +31,7 @@ updates:
     directory: "/lib/kotlin"
     schedule:
       interval: monthly
+  - package-ecosystem: "nuget"
+    directory: "/tutorial/netstd"
+    schedule:
+      interval: monthly
